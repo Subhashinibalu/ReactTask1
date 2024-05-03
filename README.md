@@ -2,7 +2,7 @@
 
 Need to create a card design based on the model provided using react component 
 
-The task given is completed and deployed. To visit the react application click this link ---->()
+The task given is completed and deployed. To visit the react application click this link ---->(https://pricecardreactcomponent.netlify.app/)
 
 
         Kindly check! Thank You.
