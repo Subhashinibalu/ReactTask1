@@ -1,4 +1,4 @@
-# React Day 1 Task
+# React Day 1 Price Card Task
 
 Need to create a card design based on the model provided using react component 
 
